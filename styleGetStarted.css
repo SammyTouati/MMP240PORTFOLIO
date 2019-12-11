@@ -1,0 +1,32 @@
+body {
+            color: lightgrey;
+            background-color: darkcyan}
+            
+            li {font-family: 'manjari', sans-serif}
+            h1 {font-family: 'manjari', sans-serif}
+            label {font-family: 'manjari', sans-serif}
+
+            
+           ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: darkcyan;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: lightcyan;
+}
